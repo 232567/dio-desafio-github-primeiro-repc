@@ -1,0 +1,9 @@
+HTML é uma abreviação de Hypertext Markup Language, que traduzindo para o português significa Linguagem de Marcação de Hypertexto. Resumindo em uma frase: o HTML é uma linguagem para publicação de conteúdo (texto, imagem, vídeo, áudio e etc). Para web é uma das linguagens utilizadas para o desenvolvimento de websites, mas para compreender as demais...
+
+Zie de volledige lijst op brasilcode.com.br
+
+
+https://developer.mozilla.org/pt-BR/docs/Learn_web_development/Getting_started/Your_first_website/Styling_the_content
+
+CSS (Folha de Estilo em Cascata) é o código que você usa para dar estilo à sua página Web. CSS básico apresenta tudo que você precisa para começar. Responderemos a perguntas do tipo: Como mudo meu texto para preto ou vermelho? Como faço para que meu conteúdo apareça em determinados lugares na tela? Como decoro minha página com imagens e cores de fundo?
+

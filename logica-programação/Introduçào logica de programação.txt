@@ -1,0 +1,35 @@
+DEFINIÇÃO DE LÓGICA
+Logica trata da correção do pensamento, como a filosofia, procura saber por que
+pensamos assim e não daquele jeito. Com a arte ou técnica, nos ensina a usar
+corretamente as leis do pensamento.
+Poderíamos dizer também que a logica é a arte de pensar corretamente e, visto que
+a forma mais complexa do pensamento é o raciocínio, a logica estuda ou tem em vista a
+“correção do raciocínio”. Podemos ainda dizer que logica tem em vista a “ordem da razão”.
+Isto dá a entender que a nossa razão pode funcionar desordenadamente. Por isso também
+se pode dizer que a logica ensina a colocar Ordem no Pensamento.
+ALGORITIMIZANDO A LÓGICA
+Construir algoritmo é o objetivo fundamental de toda a programação, mas afinal o
+que é algoritmo?
+Algoritmo é uma sequencia de passos que visam atingir um objetivo bem definido.
+Algoritmo é a descrição de um conjunto de ações que obedecidas, resultam numa sucessão
+finita de passos, atingindo o objetivo.
+Em geral, um algoritmo destina-se a resolver um problema: fixa um padrão de
+comportamento a ser seguido, uma norma de execução a ser trilhada, com vista a
+alcançar, como resultado final a solução de um problema.
+Resumindo algoritmo nada mais é que um passo a passo, de forma ordenada para
+executar uma determinada finalidade.
+Exemplo de Algoritmo
+Inicio
+Objetivo: Fazer uma ligação
+Passo 1: Pegar o telefone e destravar
+Passo 2: Discar o numero desejado
+Passo 3: Mandar chamar
+Passo 4: Ser der sinal de chamar
+4.1: Conversar
+4.2: Desligar
+4.3: Guardar Telefone
+Passo 5: Senão
+5.1 repetir
+Fim
+
+https://drive.google.com/file/d/0BzzdXdhPFoieRVVMQUlka1RqWUU/edit?resourcekey=0-vuhoT2sq8LKyU7_O0ZDSHA
